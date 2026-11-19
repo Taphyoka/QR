@@ -2,10 +2,10 @@
 
 :root {
   
-    --color-fondo: hsl(212, 45%, 89%);
-    --color-fondo-texto: hsl(216, 15%, 48%);
-    --color-encabezado: hsl(218, 44%, 22%);
-    --color-card: hsl(0, 0%, 100%)
+    --color-fondo: #D5E1EF;
+    --color-texto: #68778D;
+    --color-encabezado: #1f314f;
+    --color-card: #FFFFFF;
 }
 
 *{
